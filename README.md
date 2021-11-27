@@ -47,7 +47,7 @@ We implemented 27 alphabet symbols, 1-9 numerical digits as shown below
 ### Datasets Used
 
 1. https://www.kaggle.com/ayuraj/asl-dataset
-2. https://www.kaggle.com/rahulmakwana/sign-language-recognition-vgg16-resnet50/data
+2. https://www.kaggle.com/datamunge/sign-language-mnist
 
 ## Important Notes
 
