@@ -23,6 +23,6 @@ label = gr.outputs.Label(num_top_classes = 1) # initializing the output componen
 sample_images = [["./sample_images/1.jpeg"],["./sample_images/5.jpeg"],["./sample_images/8.jpeg"],["./sample_images/c.jpg"],["./sample_images/l.jpeg"],["./sample_images/m.jpeg"],["./sample_images/p.jpg"],["./sample_images/i.jpeg"]]
 
 # launching the interface
-gr.Interface([model_predict], inputs = image,outputs = label ,capture_session = True, examples = sample_images, title="Sign Language Classifier", description="Demo for Sign Language Classifier. To use it, simply upload A picture, or click one of the examples from below to load them.", theme = 'darkdefault',).launch(share=True)
+gr.Interface([model_predict], inputs = image,outputs = label ,capture_session = True, examples = sample_images, title="Sign Language Classifier", description="Demo for Sign Language Classifier. To use it, simply upload A picture, or click one of the examples from below to load them.", theme = 'darkdefault',).launch()
 
 # To create a public link, set `share=True` in `launch()`
