@@ -1,6 +1,6 @@
 # Sign-Language-Classifier
 
-![ASL](/images/asl.png)
+![ASL](/Images/asl.png)
 
 Some of the major problems faced by a person who are unable to speak is they cannot express their emotion as freely in this world. Utilize that voice recognition and voice search systems in smartphone(s).Audio results cannot be retrieved. They are not able to utilize (Artificial Intelligence/personal Butler) like google assistance, or Apple's SIRI etc because all those apps are based on voice controlling. There is a need for such platforms for such kind of people. American Sign Language (ASL) is a complete, complex language that employs signs made by moving the hands combined with facial expressions and postures of the body. It is the go-to language of many North Americans who are not able to talk and is one of various communication alternatives used by people who are deaf or hard-of-hearing. While sign language is very essential for deaf-mute people, to communicate both with normal people and with themselves, is still getting less attention from the normal people. The importance of sign language has been tending to ignored, unless there are areas of concern with individuals who are deaf-mute. One of the solutions to talk with the deaf-mute people is by using the mechanisms of sign language. 
 
@@ -12,19 +12,19 @@ Our project aims to create a web application, a OpenCV model to recognize signs 
 
 We implemented 27 alphabet symbols, 1-9 numerical digits as shown below 
 
-![ASL signs](/images/signs.png)
+![ASL signs](/Images/signs.png)
 
 
 ### Web Application Recognition
 
-![ASL Web App](/images/webApp.png)
+![ASL Web App](/Images/webApp.png)
 
 
 ### Live Camera Feed Recognition
 
-![Sign Y recognition](/images/cameraFeed1.png)
+![Sign Y recognition](/Images/cameraFeed1.png)
 
-![Sign B recognition](/images/cameraFeed2.png)
+![Sign B recognition](/Images/cameraFeed2.png)
 
 
 ### TechStack:
