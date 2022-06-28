@@ -1,6 +1,6 @@
-numpy=1.21
+numpy=1.22
 mediapipe=0.8.8.1
-tensorflow=2.6.0
+tensorflow=2.6.4
 opencv-python=4.5.3.56
 pyspellchecker=0.6.2
 sklearn=1.0
